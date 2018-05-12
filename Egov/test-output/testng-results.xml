@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59753" started-at="2018-05-11T11:49:22Z" finished-at="2018-05-11T11:50:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59753" started-at="2018-05-11T11:49:22Z" finished-at="2018-05-11T11:50:22Z">
+      <class name="Neoscript.View_Result">
+        <test-method status="PASS" signature="before()[pri:0, instance:Neoscript.View_Result@3234e239]" name="before" is-config="true" duration-ms="25171" started-at="2018-05-11T11:49:22Z" finished-at="2018-05-11T11:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Result_Entry()[pri:0, instance:Neoscript.View_Result@3234e239]" name="Result_Entry" duration-ms="30254" started-at="2018-05-11T11:49:47Z" finished-at="2018-05-11T11:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Result_Entry -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Neoscript.View_Result@3234e239]" name="after" is-config="true" duration-ms="4309" started-at="2018-05-11T11:50:18Z" finished-at="2018-05-11T11:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Neoscript.View_Result -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
